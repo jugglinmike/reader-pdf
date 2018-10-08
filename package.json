@@ -1,0 +1,13 @@
+{
+  "name": "reader-pdf",
+  "version": "1.0.0",
+  "description": "Create readable PDFs from web pages",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "jsdom": "^7.0.0"
+  }
+}
